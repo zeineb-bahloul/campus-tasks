@@ -7,3 +7,6 @@ Projet utilisé dans les ateliers DevOps.
 ## Healthcheck
 
 Endpoint prévu : GET /health.
+
+## Support
+Contact : equipe-b@example.invalid
