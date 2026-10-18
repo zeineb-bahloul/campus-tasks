@@ -9,4 +9,5 @@ Projet utilisé dans les ateliers DevOps.
 Endpoint prévu : GET /health.
 
 ## Support
-Contact : equipe-b@example.invalid
+Contact equipe A : equipe-a@example.invalid
+Contact equipe B : equipe-b@example.invalid
