@@ -7,3 +7,9 @@ __pycache__/
 .env.staging
 .env.deploy
 report.xml
+.venv/
+__pycache__/
+.pytest_cache/
+.env.staging
+.env.deploy
+report.xml
