@@ -3,6 +3,6 @@ name: campus-tasks-staging
 services:
   api:
     image: ghcr.io/zeineb-bahloul/campus-tasks:${IMAGE_TAG}
-    ports: ["8080:8080"]
+    ports: ["8085:8080"]
     env_file: [.env.staging]
     restart: unless-stopped
